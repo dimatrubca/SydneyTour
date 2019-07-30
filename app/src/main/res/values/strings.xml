@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Sydney Tour</string>
+
+    <!--Parks-->
+    <string name="description_hyde_park">Hyde Park is a heritage-listed 16.2-hectare urban park located in the central
+        business district of Sydney, in the City of Sydney local government area of New South Wales, Australia, Hyde
+        Park is the oldest public parkland in Australia.</string>
+
+    <string name="description_bicentennial_park">Bicentennial Park is a 40-hectare of parkland located 16 kilometres west 
+        of the Sydney central business district in the local government area of City of Parramatta. Bicentennial 
+        Park is situated on the shores Homebush Bay and is a part of the Sydney Olympic Park in New South Wales, Australia.</string>
+
+    <string name="description_sydney_park">Sydney Park is a large recreational area in the inner-city area of Sydney,
+        New South Wales, Australia. The parkland is located at St Peters, sitting along the borders of Alexandria,
+        Newtown and Erskineville. Sydney Park is 41.6 hectares in area, which makes it the third largest park in inner-city Sydney.</string>
+
+    <string name="description_blaxland_riverside_park">Blaxland Riverside Park is a great new space in Sydney Olympic Park,
+        with an excellent play area and plenty of activities on offer for the whole family. Whether you’re more into having
+        a relaxing family picnic, or going on a long adventurous bike ride, the Blaxland Riverside Park is the perfect place
+        for your next weekend outing with the little ones.
+    </string>
+
+    <string name="description_harbour_nation_park">The Sydney Harbour National Park is an Australian national park comprising
+        parts of Port Jackson, Sydney and its foreshores and various islands. The 392-hectare national park lies in
+        New South Wales and was created progressively, from 1975.</string>
+
+    <!--Restaurants-->
+    <string name="description_arya_restaurant">Chef Matt Moran presents Modern Australian haute cuisine in an elegant, glass-walled dining room.</string>
+    <string name="description_restaurant_hubert">Hubert is a French restaurant located in the heart of downtown Sydney.
+        We are open for lunch Thursday to Friday, and dinner through to late night supper Monday to Saturday.</string>
+    <string name="description_bennelong_restaurant">Bennelong serves to celebrate the Sydney Opera House
+        and its extraordinary architecture by offering a culturally significant
+        and inspiring menu showcasing a most magnificent production of Australian food and wine.</string>
+    <string name="description_tetsuyas_restaurant">An art-filled house overlooking a Japanese garden,
+        offering an acclaimed French-Asian tasting menu.</string>
+    <string name="description_mr_wong_restaurant">Modern Cantonese menu, from dim sum to classic mud crab, served in a lavish French-colonial setting.</string>
+
+
+    <!--Museums-->
+    <string name="description_museum_of_sydney">The Museum of Sydney is a historical collection and exhibit,
+        built on the ruins of the house of New South Wales\' first Governor,
+        Arthur Phillip, on the present-day corner of Phillip and Bridge Street, Sydney.</string>
+    <string name="location_museum_of_sydney">Bridge St &amp; Phillip St, Sydney NSW 2000</string>
+    <string name="description_australian_museum">The Australian Museum is a heritage-listed museum at 1 William Street,
+        Sydney central business district, New South Wales, Australia. It is the oldest museum in Australia, with an 
+        international reputation in the fields of natural history and anthropology.</string>
+    <string name="location_australian_museum">1 William St, Sydney NSW 2010</string>
+
+    <string name="description_hydepark_museum">The Hyde Park Barracks, Sydney is a heritage-listed former barracks,
+        hospital, convict accommodation, mint and courthouse and now museum and cafe located at Macquarie Street
+        in the Sydney central business district, in the City of Sydney local government area of New South Wales,
+        Australia.</string>
+    <string name="location_hydepark_museum">Queens Square, Macquarie St, Sydney NSW 2000</string>
+    <string name="description_susannah_museum">Susannah Place is a heritage-listed former grocery store and workers\'
+        cottages and now historic house museum located at 58-64 Gloucester Street in the inner city Sydney
+        suburb of The Rocks in the City of Sydney local government area of New South Wales, Australia.
+        It was built during 1844.</string>
+    <string name="location_susannah_museum">58/64 Gloucester St, The Rocks NSW 2000</string>
+    <string name="description_powerhouse_museum">The Powerhouse Museum is the major branch of the Museum of Applied
+        Arts &amp; Sciences in Sydney, the other being the historic Sydney Observatory.</string>
+    <string name="location_powerhouse_museum">500 Harris St, Ultimo NSW 200</string>
+
+    <string name="description_australian_maritime_museum">The Australian National Maritime Museum is a federally 
+        operated maritime museum in Darling Harbour, Sydney</string>
+    <string name="location_australian_maritime_museum">2 Murray St, Sydney NSW 2000</string>
+
+    <!--Landmarks-->
+    <string name="sydney_tour_eye">Sydney Tower Eye</string>
+    <string name="description_sydney_tour_eye">Landmark building, opened in 1981, with a 4-D cinema,
+        observation deck and outdoor viewing platform.</string>
+    <string name="location_sydney_tour_eye">100 Market St, Sydney NSW 2000</string>
+
+    <string name="circular_quay">Circular Quay</string>
+    <string name="description_circular_quay">Circular Quay is a harbour, former working port and now international 
+        passenger shipping port, public piazza and tourism precinct, heritage area, and 
+        transport node located in Sydney</string>
+    <string name="location_circular_quay">Sydney central business district</string>
+
+    <string name="sydney_opera_house">Sydney Opera House</string>
+    <string name="description_opera_house">The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour
+        in Sydney, New South Wales, Australia. It is one of the 20th century\'s most famous and distinctive buildings.</string>
+    <string name="location_opera_house">Bennelong Point, Sydney NSW 2000</string>
+
+    <string name="sydney_harbour_bridge">Sydney Harbour Bridge</string>
+    <string name="description_sydney_harbour_bridge">The Sydney Harbour Bridge is a heritage-listed steel through arch
+        bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney
+        central business district and the North Shore.</string>
+    <string name="location_sydney_harbours_bridge">Sydney Harbour Bridge, Sydney NSW, Australia</string>
+
+    <string name="taronga_zoo_sydney">Taronga Zoo Sydney</string>
+    <string name="description_taronga_zoo_sydney">Taronga Zoo Sydney is a zoo located in Sydney, New South Wales,
+        Australia in the suburb of Mosman, on the shores of Sydney Harbour. It was officially opened on 7 October 1916.</string>
+    <string name="location_taronga_zoo_sydney">Bradleys Head Road, Mosman, Sydney</string>
+
+</resources>
